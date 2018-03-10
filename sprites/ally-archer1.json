@@ -1,0 +1,42 @@
+{ "frames": [
+   {
+    "filename": "ally-archer1 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 10 },
+    "sourceSize": { "w": 6, "h": 10 },
+    "duration": 50
+   },
+   {
+    "filename": "ally-archer1 1.ase",
+    "frame": { "x": 6, "y": 0, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 10 },
+    "sourceSize": { "w": 6, "h": 10 },
+    "duration": 50
+   },
+   {
+    "filename": "ally-archer1 2.ase",
+    "frame": { "x": 12, "y": 0, "w": 6, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 6, "h": 10 },
+    "sourceSize": { "w": 6, "h": 10 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.6",
+  "image": "assets/sprites/ally-archer1.png",
+  "format": "RGBA8888",
+  "size": { "w": 18, "h": 10 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Base", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Shoot", "from": 1, "to": 2, "direction": "forward" }
+  ]
+ }
+}
